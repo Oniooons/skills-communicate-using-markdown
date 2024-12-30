@@ -8,3 +8,11 @@
 I put comment headings in index.md
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` C
+int x = 5;
+```
